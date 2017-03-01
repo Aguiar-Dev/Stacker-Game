@@ -1,5 +1,3 @@
-*[back to root directory](../../../)*
-
 # Arduino: Arcade Stacker Game
 
 ## Table of Contents
